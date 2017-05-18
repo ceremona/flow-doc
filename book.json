@@ -1,0 +1,10 @@
+
+{
+  "plugins": [
+    "toc"
+  ],
+  "variables": {
+    "custIes": 1,
+    "cxapiBaseApp": "ies-apps"
+  }  
+}
